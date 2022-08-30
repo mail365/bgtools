@@ -21,11 +21,11 @@ onMounted(() => {
     ></iframe>
     <div class="describe">
       <div class="content">
-        <p>哈喽 ~ 我是荣顶🦄</p>
+        <p>北故大学chsi项目</p>
         <p>
-          我将在这个仓库中，分享平时做的一些好玩的前端项目😉如果你也非常热爱前端相关技术！
+          原作者：https://github.com/wangrongding/frontend-park
         </p>
-        <p>欢迎加入我的前端交流群🦄 →</p>
+        <p>个人微信 →</p>
       </div>
       <img src="../../assets/qr.jpg" alt="" style="width: 200px" />
     </div>
