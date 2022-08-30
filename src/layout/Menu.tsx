@@ -103,14 +103,14 @@ export default defineComponent({
         >
           {routers.map((item: RouteRecordRaw) => createMenuItem(item))}
           <el-menu-item>
-            <a href='https://www.fedtop.com' target='_blank'>
-              我的博客
+            <a href='#' target='_blank'>
+               
             </a>
           </el-menu-item>
           {/* index={route.matched[route.matched.length - 1].path} */}
           <el-menu-item>
-            <a href='https://github.com/wangrongding' target='_blank'>
-              GitHub
+            <a href='#' target='_blank'>
+               
             </a>
           </el-menu-item>
         </el-menu>
