@@ -12,10 +12,10 @@ const state = reactive({
     name: 'SuperMan',
     // ===
     gender: 'male',
-    IDNumber: '350781196403000000',
+    IDNumber: '350681200303160000',
     // ===
     nationality: 'Han nationality',
-    birthday: 'February 1, 1998',
+    birthday: 'March 16, 2003',
     // ===
     school: 'Tsinghua University',
     level: 'Undergraduate',
@@ -24,16 +24,16 @@ const state = reactive({
     class: '',
     // ====
     specialized: 'Computer Science and Technology',
-    studentId: 123456789101112,
+    studentId: 20038910112,
     // ====
     form: 'full-time',
-    AdmissionTime: 'February 1, 2021',
+    AdmissionTime: 'September 1, 2021',
     AcademicSystem: '4 years',
     // ====
     type: 'general higher education',
-    graduationTime: 'January 1, 2025',
+    graduationTime: 'June 30, 2025',
     // ========
-    code: 'ABCDEFGHIJKLMN',
+    code: 'AT5B9NKWC5LOM83N',
   },
 })
 
